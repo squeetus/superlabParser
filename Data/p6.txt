@@ -1,0 +1,849 @@
+p6
+VisualSearchTask (1)
+03/06/2015	15:53:15
+
+Participant	Participant	Block	Trial	Event	Participant		Pressed Or	Correct	Error	Reaction	Reaction Time	Font Color	ISI Durations	Screen Location	Screen Location II
+Group	Name	Name	Name	Name	Response	Key	Released	Response	Code	Time	(Trial Variable)	(Trial Variable)	(Trial Variable)	(Trial Variable)	(Trial Variable)	Loc	Color
+groupB	p6	Pre-Trial	intro_cont	instructions_1.5	j	j	Pressed	(any response)	C	13737							
+groupB	p6	PracticeB	YB_ssright_1, 1	response_target_j	f	f	Pressed	j	E	9790						SL	SC
+groupB	p6	PracticeB	YB_ssright_1, 1	response_cue	1	1	Pressed	1	C	14822						SL	SC
+groupB	p6	PracticeB	YB_sdleft_1, 10	response_target_f	f	f	Pressed	f	C	4074						DL	SC
+groupB	p6	PracticeB	YB_sdleft_1, 10	response_cue	1	1	Pressed	1	C	4618						DL	SC
+groupB	p6	PracticeB	YB_NCRight, 1	response_target_j	f	f	Pressed	j	E	2066							
+groupB	p6	PracticeB	YB_NCRight, 1	response_no_cue	1	1	Pressed	2	E	2490							
+groupB	p6	PracticeB	YB_sdleft_1, 6	response_target_f	f	f	Pressed	f	C	2174						DL	SC
+groupB	p6	PracticeB	YB_sdleft_1, 6	response_cue	1	1	Pressed	1	C	2990						DL	SC
+groupB	p6	PracticeB	YB_sdright_1, 1	response_target_j	j	j	Pressed	j	C	2521						DL	SC
+groupB	p6	PracticeB	YB_sdright_1, 1	response_cue	1	1	Pressed	1	C	3370						DL	SC
+groupB	p6	PracticeB	YB_NCLeft, 8	response_target_f	j	j	Pressed	f	E	2226							
+groupB	p6	PracticeB	YB_NCLeft, 8	response_no_cue	1	1	Pressed	2	E	3410							
+groupB	p6	PracticeB	YB_sdleft_1, 8	response_target_f	f	f	Pressed	f	C	2302						DL	SC
+groupB	p6	PracticeB	YB_sdleft_1, 8	response_cue	2	2	Pressed	1	E	3478						DL	SC
+groupB	p6	PracticeB	YB_dsright_1, 3	response_target_j	j	j	Pressed	j	C	1828						SL	DC
+groupB	p6	PracticeB	YB_dsright_1, 3	response_cue	2	2	Pressed	1	E	2844						SL	DC
+groupB	p6	PracticeB	YB_ddleft_1, 6	response_target_f	f	f	Pressed	f	C	1625						DL	DC
+groupB	p6	PracticeB	YB_ddleft_1, 6	response_cue	1	1	Pressed	1	C	2361						DL	DC
+groupB	p6	PracticeB	YB_ddleft_1, 9	response_target_f	f	f	Pressed	f	C	1606						DL	DC
+groupB	p6	PracticeB	YB_ddleft_1, 9	response_cue	1	1	Pressed	1	C	2389						DL	DC
+groupB	p6	PracticeB	YB_sdright_1, 3	response_target_j	j	j	Pressed	j	C	1134						DL	SC
+groupB	p6	PracticeB	YB_sdright_1, 3	response_cue	1	1	Pressed	1	C	1718						DL	SC
+groupB	p6	PracticeB	YB_dsleft_1, 1	response_target_f	f	f	Pressed	f	C	1262						SL	DC
+groupB	p6	PracticeB	YB_dsleft_1, 1	response_cue	1	1	Pressed	1	C	1862						SL	DC
+groupB	p6	PracticeB	YB_dsright_1, 2	response_target_j	j	j	Pressed	j	C	1815						SL	DC
+groupB	p6	PracticeB	YB_dsright_1, 2	response_cue	1	1	Pressed	1	C	2583						SL	DC
+groupB	p6	PracticeB	YB_sdright_1, 5	response_target_j	f	f	Pressed	j	E	1396						DL	SC
+groupB	p6	PracticeB	YB_sdright_1, 5	response_cue	1	1	Pressed	1	C	2404						DL	SC
+groupB	p6	PracticeB	YB_NCLeft, 2	response_target_f	f	f	Pressed	f	C	1272							
+groupB	p6	PracticeB	YB_NCLeft, 2	response_no_cue	1	1	Pressed	2	E	2248							
+groupB	p6	PracticeB	YB_dsleft_1, 10	response_target_f	j	j	Pressed	f	E	2070						SL	DC
+groupB	p6	PracticeB	YB_dsleft_1, 10	response_cue	2	2	Pressed	1	E	2606						SL	DC
+groupB	p6	PracticeB	YB_ssright_1, 9	response_target_j	j	j	Pressed	j	C	1472						SL	SC
+groupB	p6	PracticeB	YB_ssright_1, 9	response_cue	2	2	Pressed	1	E	3048						SL	SC
+groupB	p6	PracticeB	YB_dsleft_1, 3	response_target_f	j	j	Pressed	f	E	1198						SL	DC
+groupB	p6	PracticeB	YB_dsleft_1, 3	response_cue	1	1	Pressed	1	C	1926						SL	DC
+groupB	p6	PracticeB	YB_ssleft_1, 10	response_target_f	j	j	Pressed	f	E	963						SL	SC
+groupB	p6	PracticeB	YB_ssleft_1, 10	response_cue	1	1	Pressed	1	C	2099						SL	SC
+groupB	p6	PracticeB	YB_ssleft_1, 6	response_target_f	f	f	Pressed	f	C	1676						SL	SC
+groupB	p6	PracticeB	YB_ssleft_1, 6	response_cue	1	1	Pressed	1	C	3100						SL	SC
+groupB	p6	PracticeB	YB_dsright_1, 7	response_target_j	j	j	Pressed	j	C	1169						SL	DC
+groupB	p6	PracticeB	YB_dsright_1, 7	response_cue	1	1	Pressed	1	C	1793						SL	DC
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 8	response_target_f	j	j	Pressed	f	E	3616							
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 8	response_no_cue	2	2	Pressed	2	C	4416							
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 5	response_target_f	f	f	Pressed	f	C	1188						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 5	response_cue	1	1	Pressed	1	C	2292						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 6	response_target_j	f	f	Pressed	j	E	1572						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 6	response_cue	1	1	Pressed	1	C	2388						DL	DC
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 9	response_target_f	f	f	Pressed	f	C	1577							
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 9	response_no_cue	2	2	Pressed	2	C	2201							
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 10	response_target_f	f	f	Pressed	f	C	1795						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 10	response_cue	1	1	Pressed	1	C	2435						DL	DC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 10	response_target_f	f	f	Pressed	f	C	1314						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 10	response_cue	1	1	Pressed	1	C	2114						SL	DC
+groupB	p6	BlueYellow_Block1	YB_NCRight, 1	response_target_j	j	j	Pressed	j	C	1429							
+groupB	p6	BlueYellow_Block1	YB_NCRight, 1	response_no_cue	2	2	Pressed	2	C	2029							
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 3	response_target_f	f	f	Pressed	f	C	3452							
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 3	response_no_cue	2	2	Pressed	2	C	4148							
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 10	response_target_j	j	j	Pressed	j	C	1833						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 10	response_cue	1	1	Pressed	1	C	2161						SL	SC
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 5	response_target_j	f	f	Pressed	j	E	1524						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 5	response_cue	1	1	Pressed	1	C	2316						DL	SC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 6	response_target_f	f	f	Pressed	f	C	1565						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 6	response_cue	1	1	Pressed	1	C	2005						SL	SC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 8	response_target_f	f	f	Pressed	f	C	1370						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 8	response_cue	1	1	Pressed	1	C	2017						SL	DC
+groupB	p6	BlueYellow_Block1	YB_NCRight, 8	response_target_j	j	j	Pressed	j	C	1866							
+groupB	p6	BlueYellow_Block1	YB_NCRight, 8	response_no_cue	2	2	Pressed	2	C	2314							
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 3	response_target_j	f	f	Pressed	j	E	1425						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 3	response_cue	2	2	Pressed	1	E	2425						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 1	response_target_f	f	f	Pressed	f	C	1065						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 1	response_cue	1	1	Pressed	1	C	1833						DL	SC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 6	response_target_f	f	f	Pressed	f	C	1311						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 6	response_cue	1	1	Pressed	1	C	3080						DL	DC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 6	response_target_f	j	j	Pressed	f	E	2415						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 6	response_cue	1	1	Pressed	1	C	2855						DL	SC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 7	response_target_j	j	j	Pressed	j	C	1833						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 7	response_cue	1	1	Pressed	1	C	2225						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 2	response_target_f	j	j	Pressed	f	E	1489						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 2	response_cue	1	1	Pressed	1	C	2065						DL	DC
+groupB	p6	BlueYellow_Block1	YB_NCRight, 3	response_target_j	j	j	Pressed	j	C	1407							
+groupB	p6	BlueYellow_Block1	YB_NCRight, 3	response_no_cue	2	2	Pressed	2	C	2127							
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 4	response_target_j	j	j	Pressed	j	C	1817						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 4	response_cue	1	1	Pressed	1	C	2697						SL	SC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 6	response_target_j	j	j	Pressed	j	C	2052						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 6	response_cue	1	1	Pressed	1	C	2892						SL	DC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 9	response_target_j	j	j	Pressed	j	C	1751						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 9	response_cue	1	1	Pressed	1	C	2647						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 2	response_target_j	j	j	Pressed	j	C	1608						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 2	response_cue	1	1	Pressed	1	C	2824						DL	DC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 10	response_target_j	j	j	Pressed	j	C	2244						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 10	response_cue	1	1	Pressed	1	C	3068						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 5	response_target_j	j	j	Pressed	j	C	1792						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 5	response_cue	1	1	Pressed	1	C	2576						SL	DC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 3	response_target_f	f	f	Pressed	f	C	1658						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 3	response_cue	1	1	Pressed	1	C	2298						SL	SC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 7	response_target_f	f	f	Pressed	f	C	2062						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 7	response_cue	1	1	Pressed	1	C	2502						SL	DC
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 6	response_target_j	j	j	Pressed	j	C	2133						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 6	response_cue	1	1	Pressed	1	C	2613						DL	SC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 1	response_target_j	j	j	Pressed	j	C	1657						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 1	response_cue	1	1	Pressed	1	C	2057						SL	SC
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 10	response_target_f	j	j	Pressed	f	E	2314							
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 10	response_no_cue	2	2	Pressed	2	C	2850							
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 7	response_target_j	j	j	Pressed	j	C	2869						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 7	response_cue	1	1	Pressed	1	C	3565						DL	SC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 4	response_target_f	f	f	Pressed	f	C	1799						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 4	response_cue	1	1	Pressed	1	C	2807						SL	DC
+groupB	p6	BlueYellow_Block1	YB_NCRight, 7	response_target_j	j	j	Pressed	j	C	1407							
+groupB	p6	BlueYellow_Block1	YB_NCRight, 7	response_no_cue	2	2	Pressed	2	C	1991							
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 10	response_target_f	f	f	Pressed	f	C	1387						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 10	response_cue	1	1	Pressed	1	C	2195						SL	SC
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 6	response_target_f	f	f	Pressed	f	C	1633							
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 6	response_no_cue	2	2	Pressed	2	C	2433							
+groupB	p6	BlueYellow_Block1	YB_NCRight, 4	response_target_j	j	j	Pressed	j	C	1478							
+groupB	p6	BlueYellow_Block1	YB_NCRight, 4	response_no_cue	2	2	Pressed	2	C	2206							
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 9	response_target_f	j	j	Pressed	f	E	3207						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 9	response_cue	1	1	Pressed	1	C	3439						DL	DC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 4	response_target_f	j	j	Pressed	f	E	1975						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 4	response_cue	2	2	Pressed	1	E	2487						DL	SC
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 1	response_target_f	f	f	Pressed	f	C	1499							
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 1	response_no_cue	2	2	Pressed	2	C	2075							
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 4	response_target_f	j	j	Pressed	f	E	2584						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 4	response_cue	2	2	Pressed	1	E	3368						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 5	response_target_f	f	f	Pressed	f	C	1851						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 5	response_cue	1	1	Pressed	1	C	2883						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 7	response_target_j	j	j	Pressed	j	C	1754						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 7	response_cue	2	2	Pressed	1	E	2378						SL	SC
+groupB	p6	BlueYellow_Block1	YB_NCRight, 5	response_target_j	j	j	Pressed	j	C	1588							
+groupB	p6	BlueYellow_Block1	YB_NCRight, 5	response_no_cue	2	2	Pressed	2	C	2868							
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 10	response_target_j	f	f	Pressed	j	E	1546						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 10	response_cue	1	1	Pressed	1	C	2354						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 1	response_target_j	j	j	Pressed	j	C	2152						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 1	response_cue	1	1	Pressed	1	C	2408						DL	DC
+groupB	p6	BlueYellow_Block1	YB_NCRight, 9	response_target_j	j	j	Pressed	j	C	1360							
+groupB	p6	BlueYellow_Block1	YB_NCRight, 9	response_no_cue	2	2	Pressed	2	C	1968							
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 8	response_target_j	j	j	Pressed	j	C	1611						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 8	response_cue	1	1	Pressed	1	C	2147						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 9	response_target_f	f	f	Pressed	f	C	1099						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 9	response_cue	2	2	Pressed	1	E	1963						SL	SC
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 5	response_target_f	f	f	Pressed	f	C	1175							
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 5	response_no_cue	2	2	Pressed	2	C	1703							
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 7	response_target_f	f	f	Pressed	f	C	1003							
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 7	response_no_cue	2	2	Pressed	2	C	1491							
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 9	response_target_j	j	j	Pressed	j	C	1586						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 9	response_cue	1	1	Pressed	1	C	2026						DL	DC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 9	response_target_j	j	j	Pressed	j	C	1827						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 9	response_cue	1	1	Pressed	1	C	3379						SL	DC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 7	response_target_f	f	f	Pressed	f	C	1290						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 7	response_cue	2	2	Pressed	1	E	1746						DL	SC
+groupB	p6	BlueYellow_Block1	YB_NCRight, 6	response_target_j	j	j	Pressed	j	C	1336							
+groupB	p6	BlueYellow_Block1	YB_NCRight, 6	response_no_cue	2	2	Pressed	2	C	1856							
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 3	response_target_f	f	f	Pressed	f	C	2335						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 3	response_cue	1	1	Pressed	1	C	2871						DL	SC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 4	response_target_f	j	j	Pressed	f	E	3146						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 4	response_cue	1	1	Pressed	1	C	3450						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 8	response_target_f	f	f	Pressed	f	C	1496						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 8	response_cue	1	1	Pressed	1	C	2336						SL	SC
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 8	response_target_j	j	j	Pressed	j	C	1133						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 8	response_cue	1	1	Pressed	1	C	3021						DL	SC
+groupB	p6	BlueYellow_Block1	YB_NCRight, 2	response_target_j	j	j	Pressed	j	C	1116							
+groupB	p6	BlueYellow_Block1	YB_NCRight, 2	response_no_cue	2	2	Pressed	2	C	1660							
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 4	response_target_j	j	j	Pressed	j	C	1812						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 4	response_cue	1	1	Pressed	1	C	2084						DL	SC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 6	response_target_j	j	j	Pressed	j	C	1161						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 6	response_cue	1	1	Pressed	1	C	1457						SL	SC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 7	response_target_j	j	j	Pressed	j	C	1665						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 7	response_cue	1	1	Pressed	1	C	2073						SL	DC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 2	response_target_f	f	f	Pressed	f	C	2139						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 2	response_cue	1	1	Pressed	1	C	3019						DL	SC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 8	response_target_j	j	j	Pressed	j	C	2186						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 8	response_cue	1	1	Pressed	1	C	2930						SL	DC
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 1	response_target_j	j	j	Pressed	j	C	2555						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 1	response_cue	1	1	Pressed	1	C	2835						DL	SC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 4	response_target_j	f	f	Pressed	j	E	1293						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 4	response_cue	1	1	Pressed	1	C	1789						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 5	response_target_j	j	j	Pressed	j	C	1212						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 5	response_cue	1	1	Pressed	1	C	1716						SL	SC
+groupB	p6	BlueYellow_Block1	YB_NCRight, 10	response_target_j	j	j	Pressed	j	C	1576							
+groupB	p6	BlueYellow_Block1	YB_NCRight, 10	response_no_cue	2	2	Pressed	2	C	2256							
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 7	response_target_f	f	f	Pressed	f	C	876						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 7	response_cue	1	1	Pressed	1	C	2396						SL	SC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 4	response_target_j	j	j	Pressed	j	C	1050						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 4	response_cue	1	1	Pressed	1	C	1482						SL	DC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 5	response_target_f	f	f	Pressed	f	C	1367						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 5	response_cue	1	1	Pressed	1	C	2223						DL	SC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 1	response_target_f	f	f	Pressed	f	C	2226						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 1	response_cue	1	1	Pressed	1	C	2562						DL	DC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 2	response_target_j	j	j	Pressed	j	C	911						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 2	response_cue	1	1	Pressed	1	C	1487						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 2	response_target_f	f	f	Pressed	f	C	1205						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 2	response_cue	1	1	Pressed	1	C	1734						SL	DC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 8	response_target_j	f	f	Pressed	j	E	1426						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 8	response_cue	1	1	Pressed	1	C	1786						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 2	response_target_f	f	f	Pressed	f	C	770						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 2	response_cue	1	1	Pressed	1	C	1290						SL	SC
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 4	response_target_f	f	f	Pressed	f	C	1163							
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 4	response_no_cue	1	1	Pressed	2	E	1891							
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 2	response_target_j	j	j	Pressed	j	C	937						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 2	response_cue	1	1	Pressed	1	C	1529						DL	SC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 1	response_target_j	j	j	Pressed	j	C	1160						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 1	response_cue	1	1	Pressed	1	C	1488						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 3	response_target_j	j	j	Pressed	j	C	976						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsright_1, 3	response_cue	1	1	Pressed	1	C	1416						SL	DC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 3	response_target_j	j	j	Pressed	j	C	720						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 3	response_cue	1	1	Pressed	1	C	1016						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 2	response_target_j	j	j	Pressed	j	C	839						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssright_1, 2	response_cue	1	1	Pressed	1	C	1239						SL	SC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 3	response_target_f	f	f	Pressed	f	C	815						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 3	response_cue	1	1	Pressed	1	C	1222						SL	DC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 8	response_target_f	f	f	Pressed	f	C	1296						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 8	response_cue	1	1	Pressed	1	C	1696						DL	DC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 10	response_target_f	j	j	Pressed	f	E	1875						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 10	response_cue	2	2	Pressed	1	E	2235						DL	SC
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 2	response_target_f	f	f	Pressed	f	C	1013							
+groupB	p6	BlueYellow_Block1	YB_NCLeft, 2	response_no_cue	2	2	Pressed	2	C	1469							
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 9	response_target_j	j	j	Pressed	j	C	1755						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 9	response_cue	2	2	Pressed	1	E	2067						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 9	response_target_f	f	f	Pressed	f	C	1101						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 9	response_cue	1	1	Pressed	1	C	1597						DL	SC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 6	response_target_f	f	f	Pressed	f	C	980						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 6	response_cue	1	1	Pressed	1	C	1604						SL	DC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 5	response_target_j	j	j	Pressed	j	C	1232						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 5	response_cue	1	1	Pressed	1	C	1608						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 3	response_target_j	f	f	Pressed	j	E	1293						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddright_1, 3	response_cue	1	1	Pressed	1	C	1781						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 1	response_target_f	f	f	Pressed	f	C	1126						SL	SC
+groupB	p6	BlueYellow_Block1	YB_ssleft_1, 1	response_cue	1	1	Pressed	1	C	1518						SL	SC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 1	response_target_f	f	f	Pressed	f	C	899						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 1	response_cue	1	1	Pressed	1	C	1259						SL	DC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 8	response_target_f	f	f	Pressed	f	C	1280						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdleft_1, 8	response_cue	1	1	Pressed	1	C	1640						DL	SC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 7	response_target_f	f	f	Pressed	f	C	1180						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 7	response_cue	1	1	Pressed	1	C	1749						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 3	response_target_f	f	f	Pressed	f	C	1292						DL	DC
+groupB	p6	BlueYellow_Block1	YB_ddleft_1, 3	response_cue	1	1	Pressed	1	C	1660						DL	DC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 9	response_target_f	f	f	Pressed	f	C	966						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 9	response_cue	1	1	Pressed	1	C	1350						SL	DC
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 10	response_target_j	f	f	Pressed	j	E	901						DL	SC
+groupB	p6	BlueYellow_Block1	YB_sdright_1, 10	response_cue	1	1	Pressed	1	C	1333						DL	SC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 5	response_target_f	f	f	Pressed	f	C	891						SL	DC
+groupB	p6	BlueYellow_Block1	YB_dsleft_1, 5	response_cue	1	1	Pressed	1	C	1347						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 6	response_target_f	f	f	Pressed	f	C	828						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 6	response_cue	1	1	Pressed	1	C	1276						SL	DC
+groupB	p6	BlueYellow_Block2	YB_NCRight, 4	response_target_j	j	j	Pressed	j	C	1175							
+groupB	p6	BlueYellow_Block2	YB_NCRight, 4	response_no_cue	2	2	Pressed	2	C	1695							
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 4	response_target_f	f	f	Pressed	f	C	1417						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 4	response_cue	1	1	Pressed	1	C	1849						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 10	response_target_f	f	f	Pressed	f	C	1185						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 10	response_cue	1	1	Pressed	1	C	1561						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 5	response_target_j	j	j	Pressed	j	C	1233						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 5	response_cue	1	1	Pressed	1	C	1529						SL	SC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 2	response_target_f	j	j	Pressed	f	E	1341						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 2	response_cue	1	1	Pressed	1	C	1685						DL	SC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 8	response_target_j	j	j	Pressed	j	C	1175						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 8	response_cue	1	1	Pressed	1	C	1503						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 8	response_target_f	f	f	Pressed	f	C	802						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 8	response_cue	1	1	Pressed	1	C	1194						SL	DC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 8	response_target_j	j	j	Pressed	j	C	870						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 8	response_cue	1	1	Pressed	1	C	1318						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 6	response_target_f	f	f	Pressed	f	C	955						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 6	response_cue	1	1	Pressed	1	C	1427						DL	SC
+groupB	p6	BlueYellow_Block2	YB_NCRight, 10	response_target_j	j	j	Pressed	j	C	1017							
+groupB	p6	BlueYellow_Block2	YB_NCRight, 10	response_no_cue	2	2	Pressed	2	C	1777							
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 2	response_target_f	j	j	Pressed	f	E	1824						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 2	response_cue	2	2	Pressed	1	E	2176						DL	DC
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 9	response_target_f	f	f	Pressed	f	C	1183							
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 9	response_no_cue	2	2	Pressed	2	C	2575							
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 9	response_target_j	j	j	Pressed	j	C	1199						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 9	response_cue	1	1	Pressed	1	C	1735						SL	DC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 5	response_target_f	f	f	Pressed	f	C	1224						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 5	response_cue	1	1	Pressed	1	C	1648						DL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 3	response_target_f	f	f	Pressed	f	C	787						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 3	response_cue	1	1	Pressed	1	C	1219						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 6	response_target_f	f	f	Pressed	f	C	773						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 6	response_cue	1	1	Pressed	1	C	1157						SL	SC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 10	response_target_f	f	f	Pressed	f	C	738						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 10	response_cue	1	1	Pressed	1	C	1042						SL	DC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 7	response_target_f	j	j	Pressed	f	E	1467						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 7	response_cue	1	1	Pressed	1	C	1915						DL	DC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 7	response_target_j	j	j	Pressed	j	C	1015						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 7	response_cue	1	1	Pressed	1	C	1391						DL	SC
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 1	response_target_f	f	f	Pressed	f	C	1508							
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 1	response_no_cue	2	2	Pressed	2	C	1916							
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 2	response_target_f	f	f	Pressed	f	C	1021							
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 2	response_no_cue	2	2	Pressed	2	C	1405							
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 7	response_target_f	f	f	Pressed	f	C	1071							
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 7	response_no_cue	2	2	Pressed	2	C	1455							
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 10	response_target_f	f	f	Pressed	f	C	800							
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 10	response_no_cue	2	2	Pressed	2	C	1232							
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 4	response_target_j	j	j	Pressed	j	C	1729						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 4	response_cue	1	1	Pressed	1	C	2217						SL	DC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 6	response_target_j	j	j	Pressed	j	C	2120						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 6	response_cue	1	1	Pressed	1	C	2760						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 3	response_target_f	f	f	Pressed	f	C	1157						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 3	response_cue	1	1	Pressed	1	C	1709						DL	SC
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 8	response_target_f	f	f	Pressed	f	C	1041							
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 8	response_no_cue	2	2	Pressed	2	C	1385							
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 3	response_target_j	j	j	Pressed	j	C	1159						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 3	response_cue	1	1	Pressed	1	C	1799						SL	DC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 6	response_target_j	j	j	Pressed	j	C	1025						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 6	response_cue	1	1	Pressed	1	C	1465						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 8	response_target_j	j	j	Pressed	j	C	968						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 8	response_cue	1	1	Pressed	1	C	1224						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 6	response_target_f	j	j	Pressed	f	E	1525						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 6	response_cue	1	1	Pressed	1	C	1829						DL	DC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 7	response_target_f	f	f	Pressed	f	C	1002						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 7	response_cue	1	1	Pressed	1	C	1330						SL	DC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 10	response_target_f	f	f	Pressed	f	C	1167						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 10	response_cue	1	1	Pressed	1	C	1503						SL	SC
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 5	response_target_f	f	f	Pressed	f	C	1324							
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 5	response_no_cue	2	2	Pressed	2	C	1651							
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 5	response_target_f	f	f	Pressed	f	C	1072						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 5	response_cue	1	1	Pressed	1	C	1576						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 3	response_target_j	j	j	Pressed	j	C	1270						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 3	response_cue	1	1	Pressed	1	C	1670						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 9	response_target_j	j	j	Pressed	j	C	1108						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 9	response_cue	1	1	Pressed	1	C	1460						DL	DC
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 6	response_target_f	f	f	Pressed	f	C	869							
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 6	response_no_cue	2	2	Pressed	2	C	1221							
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 2	response_target_f	f	f	Pressed	f	C	1056						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 2	response_cue	1	1	Pressed	1	C	1408						SL	SC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 2	response_target_j	j	j	Pressed	j	C	933						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 2	response_cue	1	1	Pressed	1	C	1341						DL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 5	response_target_f	f	f	Pressed	f	C	1418						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 5	response_cue	1	1	Pressed	1	C	1762						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 8	response_target_f	f	f	Pressed	f	C	921						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 8	response_cue	1	1	Pressed	1	C	1305						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 6	response_target_j	j	j	Pressed	j	C	1052						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 6	response_cue	1	1	Pressed	1	C	1412						DL	DC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 3	response_target_j	j	j	Pressed	j	C	1149						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 3	response_cue	1	1	Pressed	1	C	1549						DL	SC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 7	response_target_j	j	j	Pressed	j	C	817						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 7	response_cue	1	1	Pressed	1	C	1169						SL	DC
+groupB	p6	BlueYellow_Block2	YB_NCRight, 2	response_target_j	j	j	Pressed	j	C	876							
+groupB	p6	BlueYellow_Block2	YB_NCRight, 2	response_no_cue	2	2	Pressed	2	C	1316							
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 10	response_target_j	j	j	Pressed	j	C	1034						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 10	response_cue	1	1	Pressed	1	C	1362						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 2	response_target_j	j	j	Pressed	j	C	1377						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 2	response_cue	1	1	Pressed	1	C	1833						DL	DC
+groupB	p6	BlueYellow_Block2	YB_NCRight, 1	response_target_j	j	j	Pressed	j	C	1161							
+groupB	p6	BlueYellow_Block2	YB_NCRight, 1	response_no_cue	2	2	Pressed	2	C	1433							
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 5	response_target_j	j	j	Pressed	j	C	1605						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 5	response_cue	1	1	Pressed	1	C	1909						DL	DC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 9	response_target_j	j	j	Pressed	j	C	930						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 9	response_cue	1	1	Pressed	1	C	1249						DL	SC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 9	response_target_f	f	f	Pressed	f	C	878						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 9	response_cue	1	1	Pressed	1	C	1262						SL	DC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 9	response_target_f	j	j	Pressed	f	E	990						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 9	response_cue	1	1	Pressed	1	C	1350						DL	DC
+groupB	p6	BlueYellow_Block2	YB_NCRight, 7	response_target_j	j	j	Pressed	j	C	764							
+groupB	p6	BlueYellow_Block2	YB_NCRight, 7	response_no_cue	2	2	Pressed	2	C	1260							
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 6	response_target_j	j	j	Pressed	j	C	932						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 6	response_cue	1	1	Pressed	1	C	1340						SL	DC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 7	response_target_f	j	j	Pressed	f	E	984						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 7	response_cue	1	1	Pressed	1	C	1384						DL	SC
+groupB	p6	BlueYellow_Block2	YB_NCRight, 3	response_target_j	j	j	Pressed	j	C	823							
+groupB	p6	BlueYellow_Block2	YB_NCRight, 3	response_no_cue	2	2	Pressed	2	C	1127							
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 5	response_target_j	j	j	Pressed	j	C	973						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 5	response_cue	1	1	Pressed	1	C	1301						DL	SC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 4	response_target_f	f	f	Pressed	f	C	952						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 4	response_cue	1	1	Pressed	1	C	1280						SL	DC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 3	response_target_j	j	j	Pressed	j	C	830						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 3	response_cue	1	1	Pressed	1	C	1237						SL	SC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 8	response_target_f	f	f	Pressed	f	C	1174						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 8	response_cue	1	1	Pressed	1	C	1534						DL	SC
+groupB	p6	BlueYellow_Block2	YB_NCRight, 8	response_target_j	j	j	Pressed	j	C	906							
+groupB	p6	BlueYellow_Block2	YB_NCRight, 8	response_no_cue	2	2	Pressed	2	C	1522							
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 2	response_target_j	j	j	Pressed	j	C	878						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 2	response_cue	1	1	Pressed	1	C	1254						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 9	response_target_f	f	f	Pressed	f	C	883						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 9	response_cue	1	1	Pressed	1	C	1243						SL	SC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 2	response_target_f	f	f	Pressed	f	C	927						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 2	response_cue	1	1	Pressed	1	C	1343						SL	DC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 9	response_target_f	f	f	Pressed	f	C	1068						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 9	response_cue	1	1	Pressed	1	C	1428						DL	SC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 5	response_target_j	j	j	Pressed	j	C	916						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 5	response_cue	1	1	Pressed	1	C	1508						SL	DC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 10	response_target_f	f	f	Pressed	f	C	1045						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 10	response_cue	1	1	Pressed	1	C	1437						DL	SC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 8	response_target_f	f	f	Pressed	f	C	920						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 8	response_cue	1	1	Pressed	1	C	1344						DL	DC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 1	response_target_f	f	f	Pressed	f	C	1059						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 1	response_cue	1	1	Pressed	1	C	1475						DL	SC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 9	response_target_j	j	j	Pressed	j	C	1131						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 9	response_cue	1	1	Pressed	1	C	1467						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 7	response_target_j	j	j	Pressed	j	C	1409						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 7	response_cue	1	1	Pressed	1	C	1809						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 1	response_target_j	j	j	Pressed	j	C	842						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 1	response_cue	1	1	Pressed	1	C	1266						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 4	response_target_j	j	j	Pressed	j	C	905						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 4	response_cue	1	1	Pressed	1	C	1337						DL	DC
+groupB	p6	BlueYellow_Block2	YB_NCRight, 6	response_target_j	j	j	Pressed	j	C	1120							
+groupB	p6	BlueYellow_Block2	YB_NCRight, 6	response_no_cue	2	2	Pressed	2	C	1472							
+groupB	p6	BlueYellow_Block2	YB_NCRight, 9	response_target_j	j	j	Pressed	j	C	1147							
+groupB	p6	BlueYellow_Block2	YB_NCRight, 9	response_no_cue	2	2	Pressed	2	C	1483							
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 4	response_target_f	f	f	Pressed	f	C	1061							
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 4	response_no_cue	2	2	Pressed	2	C	1501							
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 5	response_target_f	f	f	Pressed	f	C	825						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 5	response_cue	1	1	Pressed	1	C	1649						SL	DC
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 3	response_target_f	f	f	Pressed	f	C	1010							
+groupB	p6	BlueYellow_Block2	YB_NCLeft, 3	response_no_cue	2	2	Pressed	2	C	1402							
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 8	response_target_j	j	j	Pressed	j	C	1120						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddright_2, 8	response_cue	1	1	Pressed	1	C	1504						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 7	response_target_j	j	j	Pressed	j	C	717						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 7	response_cue	1	1	Pressed	1	C	1125						SL	SC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 10	response_target_j	j	j	Pressed	j	C	1200						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 10	response_cue	1	1	Pressed	1	C	1536						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 4	response_target_f	f	f	Pressed	f	C	892						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdleft_2, 4	response_cue	1	1	Pressed	1	C	1275						DL	SC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 4	response_target_j	j	j	Pressed	j	C	1206						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 4	response_cue	1	1	Pressed	1	C	2198						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 7	response_target_f	f	f	Pressed	f	C	770						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 7	response_cue	1	1	Pressed	1	C	1170						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 10	response_target_j	j	j	Pressed	j	C	862						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 10	response_cue	1	1	Pressed	1	C	1286						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 4	response_target_f	f	f	Pressed	f	C	861						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 4	response_cue	1	1	Pressed	1	C	1293						SL	SC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 2	response_target_j	j	j	Pressed	j	C	792						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 2	response_cue	1	1	Pressed	1	C	1200						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 1	response_target_j	f	f	Pressed	j	E	1013						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 1	response_cue	1	1	Pressed	1	C	1397						SL	DC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 4	response_target_j	j	j	Pressed	j	C	836						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 4	response_cue	1	1	Pressed	1	C	1220						DL	SC
+groupB	p6	BlueYellow_Block2	YB_NCRight, 5	response_target_j	j	j	Pressed	j	C	1270							
+groupB	p6	BlueYellow_Block2	YB_NCRight, 5	response_no_cue	2	2	Pressed	2	C	1782							
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 1	response_target_f	f	f	Pressed	f	C	691						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 1	response_cue	1	1	Pressed	1	C	1059						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 3	response_target_f	f	f	Pressed	f	C	750						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsleft_2, 3	response_cue	1	1	Pressed	1	C	1230						SL	DC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 1	response_target_j	j	j	Pressed	j	C	820						DL	SC
+groupB	p6	BlueYellow_Block2	YB_sdright_2, 1	response_cue	1	1	Pressed	1	C	1204						DL	SC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 1	response_target_j	j	j	Pressed	j	C	924						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssright_2, 1	response_cue	1	1	Pressed	1	C	1268						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 3	response_target_f	j	j	Pressed	f	E	1369						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 3	response_cue	1	1	Pressed	1	C	1713						DL	DC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 10	response_target_j	j	j	Pressed	j	C	716						SL	DC
+groupB	p6	BlueYellow_Block2	YB_dsright_2, 10	response_cue	1	1	Pressed	1	C	1068						SL	DC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 1	response_target_f	f	f	Pressed	f	C	800						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ssleft_2, 1	response_cue	1	1	Pressed	1	C	1168						SL	SC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 1	response_target_f	f	f	Pressed	f	C	993						DL	DC
+groupB	p6	BlueYellow_Block2	YB_ddleft_2, 1	response_cue	1	1	Pressed	1	C	1385						DL	DC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 4	response_target_j	j	j	Pressed	j	C	913						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 4	response_cue	1	1	Pressed	1	C	1305						SL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 4	response_target_f	f	f	Pressed	f	C	886						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 4	response_cue	1	1	Pressed	1	C	1214						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 1	response_target_f	f	f	Pressed	f	C	1135						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 1	response_cue	1	1	Pressed	1	C	1495						DL	SC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 5	response_target_f	f	f	Pressed	f	C	1223						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 5	response_cue	1	1	Pressed	1	C	1551						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 2	response_target_f	f	f	Pressed	f	C	818						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 2	response_cue	1	1	Pressed	1	C	1226						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 5	response_target_j	j	j	Pressed	j	C	803						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 5	response_cue	1	1	Pressed	1	C	1171						SL	DC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 7	response_target_f	f	f	Pressed	f	C	1022						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 7	response_cue	1	1	Pressed	1	C	1382						DL	SC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 7	response_target_f	f	f	Pressed	f	C	734						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 7	response_cue	1	1	Pressed	1	C	1102						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 8	response_target_f	f	f	Pressed	f	C	780						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 8	response_cue	1	1	Pressed	1	C	1180						SL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 2	response_target_j	j	j	Pressed	j	C	998						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 2	response_cue	1	1	Pressed	1	C	1366						DL	SC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 3	response_target_f	f	f	Pressed	f	C	770						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 3	response_cue	1	1	Pressed	1	C	1234						SL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 10	response_target_j	j	j	Pressed	j	C	1118						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 10	response_cue	1	1	Pressed	1	C	1446						DL	SC
+groupB	p6	RedGreen_Block1	RG_NCLeft, 6	response_target_f	f	f	Pressed	f	C	897							
+groupB	p6	RedGreen_Block1	RG_NCLeft, 6	response_no_cue	2	2	Pressed	2	C	1233							
+groupB	p6	RedGreen_Block1	RG_ssright_1, 1	response_target_j	f	f	Pressed	j	E	1171						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 1	response_cue	1	1	Pressed	1	C	1515						SL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 6	response_target_j	j	j	Pressed	j	C	1279						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 6	response_cue	1	1	Pressed	1	C	1615						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 7	response_target_j	j	j	Pressed	j	C	1057						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 7	response_cue	1	1	Pressed	1	C	1402						DL	SC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 10	response_target_j	j	j	Pressed	j	C	791						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 10	response_cue	1	1	Pressed	1	C	1175						SL	SC
+groupB	p6	RedGreen_Block1	RG_ddright_1, 2	response_target_j	j	j	Pressed	j	C	819						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddright_1, 2	response_cue	1	1	Pressed	1	C	1235						DL	DC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 10	response_target_f	f	f	Pressed	f	C	1334						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 10	response_cue	1	1	Pressed	1	C	1742						DL	SC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 4	response_target_f	j	j	Pressed	f	E	1526						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 4	response_cue	1	1	Pressed	1	C	1870						DL	DC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 8	response_target_f	j	j	Pressed	f	E	1196						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 8	response_cue	1	1	Pressed	1	C	1500						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 6	response_target_j	j	j	Pressed	j	C	786						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 6	response_cue	1	1	Pressed	1	C	1186						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 10	response_target_f	f	f	Pressed	f	C	815						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 10	response_cue	1	1	Pressed	1	C	1135						SL	DC
+groupB	p6	RedGreen_Block1	RG_NCLeft, 7	response_target_f	f	f	Pressed	f	C	843							
+groupB	p6	RedGreen_Block1	RG_NCLeft, 7	response_no_cue	2	2	Pressed	2	C	1347							
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 8	response_target_f	j	j	Pressed	f	E	1038						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 8	response_cue	1	1	Pressed	1	C	1534						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 7	response_target_f	j	j	Pressed	f	E	1139						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 7	response_cue	1	1	Pressed	1	C	1458						DL	DC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 3	response_target_j	j	j	Pressed	j	C	799						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 3	response_cue	1	1	Pressed	1	C	1190						SL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 3	response_target_f	f	f	Pressed	f	C	1193						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 3	response_cue	1	1	Pressed	1	C	1569						DL	SC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 4	response_target_f	f	f	Pressed	f	C	899						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 4	response_cue	1	1	Pressed	1	C	1243						SL	DC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 1	response_target_f	f	f	Pressed	f	C	1240						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 1	response_cue	1	1	Pressed	1	C	1568						SL	SC
+groupB	p6	RedGreen_Block1	RG_NCRight, 2	response_target_j	j	j	Pressed	j	C	1442							
+groupB	p6	RedGreen_Block1	RG_NCRight, 2	response_no_cue	2	2	Pressed	2	C	2314							
+groupB	p6	RedGreen_Block1	RG_ddright_1, 6	response_target_j	j	j	Pressed	j	C	1838						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddright_1, 6	response_cue	1	1	Pressed	1	C	2253						DL	DC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 3	response_target_j	j	j	Pressed	j	C	1851						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 3	response_cue	1	1	Pressed	1	C	2219						DL	SC
+groupB	p6	RedGreen_Block1	RG_ddright_1, 8	response_target_j	j	j	Pressed	j	C	1256						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddright_1, 8	response_cue	1	1	Pressed	1	C	1640						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 3	response_target_f	f	f	Pressed	f	C	999						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 3	response_cue	1	1	Pressed	1	C	1311						DL	DC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 2	response_target_j	j	j	Pressed	j	C	1261						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 2	response_cue	1	1	Pressed	1	C	1533						SL	DC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 7	response_target_j	j	j	Pressed	j	C	1006						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 7	response_cue	1	1	Pressed	1	C	1326						SL	SC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 8	response_target_j	j	j	Pressed	j	C	777						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 8	response_cue	1	1	Pressed	1	C	1369						SL	DC
+groupB	p6	RedGreen_Block1	RG_ddright_1, 1	response_target_j	j	j	Pressed	j	C	790						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddright_1, 1	response_cue	1	1	Pressed	1	C	1150						DL	DC
+groupB	p6	RedGreen_Block1	RG_NCLeft, 9	response_target_f	f	f	Pressed	f	C	978							
+groupB	p6	RedGreen_Block1	RG_NCLeft, 9	response_no_cue	2	2	Pressed	2	C	1298							
+groupB	p6	RedGreen_Block1	RG_dsright_1, 9	response_target_j	j	j	Pressed	j	C	966						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 9	response_cue	1	1	Pressed	1	C	1318						SL	DC
+groupB	p6	RedGreen_Block1	RG_NCRight, 10	response_target_j	j	j	Pressed	j	C	1077							
+groupB	p6	RedGreen_Block1	RG_NCRight, 10	response_no_cue	2	2	Pressed	2	C	1333							
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 5	response_target_f	j	j	Pressed	f	E	958						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 5	response_cue	1	1	Pressed	1	C	1230						DL	DC
+groupB	p6	RedGreen_Block1	RG_NCLeft, 5	response_target_f	f	f	Pressed	f	C	807							
+groupB	p6	RedGreen_Block1	RG_NCLeft, 5	response_no_cue	2	2	Pressed	2	C	1167							
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 4	response_target_f	f	f	Pressed	f	C	1093						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 4	response_cue	1	1	Pressed	1	C	1397						SL	SC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 1	response_target_f	j	j	Pressed	f	E	816						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 1	response_cue	1	1	Pressed	1	C	1128						DL	DC
+groupB	p6	RedGreen_Block1	RG_NCRight, 7	response_target_j	j	j	Pressed	j	C	714							
+groupB	p6	RedGreen_Block1	RG_NCRight, 7	response_no_cue	2	2	Pressed	2	C	1002							
+groupB	p6	RedGreen_Block1	RG_NCRight, 9	response_target_j	j	j	Pressed	j	C	1075							
+groupB	p6	RedGreen_Block1	RG_NCRight, 9	response_no_cue	2	2	Pressed	2	C	1315							
+groupB	p6	RedGreen_Block1	RG_ddright_1, 5	response_target_j	j	j	Pressed	j	C	1097						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddright_1, 5	response_cue	1	1	Pressed	1	C	1449						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 10	response_target_f	f	f	Pressed	f	C	1128						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 10	response_cue	1	1	Pressed	1	C	1560						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddright_1, 9	response_target_j	j	j	Pressed	j	C	1099						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddright_1, 9	response_cue	1	1	Pressed	1	C	1419						DL	DC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 5	response_target_j	j	j	Pressed	j	C	967						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 5	response_cue	1	1	Pressed	1	C	1327						SL	SC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 10	response_target_j	j	j	Pressed	j	C	717						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 10	response_cue	1	1	Pressed	1	C	1101						SL	DC
+groupB	p6	RedGreen_Block1	RG_NCLeft, 2	response_target_f	f	f	Pressed	f	C	932							
+groupB	p6	RedGreen_Block1	RG_NCLeft, 2	response_no_cue	2	2	Pressed	2	C	1244							
+groupB	p6	RedGreen_Block1	RG_sdright_1, 4	response_target_j	j	j	Pressed	j	C	1105						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 4	response_cue	1	1	Pressed	1	C	1449						DL	SC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 3	response_target_f	f	f	Pressed	f	C	852						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 3	response_cue	1	1	Pressed	1	C	1196						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 7	response_target_f	f	f	Pressed	f	C	1007						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 7	response_cue	1	1	Pressed	1	C	1351						SL	DC
+groupB	p6	RedGreen_Block1	RG_NCLeft, 1	response_target_f	f	f	Pressed	f	C	904							
+groupB	p6	RedGreen_Block1	RG_NCLeft, 1	response_no_cue	2	2	Pressed	2	C	1264							
+groupB	p6	RedGreen_Block1	RG_dsright_1, 4	response_target_j	j	j	Pressed	j	C	764						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 4	response_cue	1	1	Pressed	1	C	1100						SL	DC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 2	response_target_j	j	j	Pressed	j	C	802						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 2	response_cue	1	1	Pressed	1	C	1194						SL	SC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 9	response_target_f	f	f	Pressed	f	C	677						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 9	response_cue	1	1	Pressed	1	C	1013						SL	DC
+groupB	p6	RedGreen_Block1	RG_NCLeft, 4	response_target_f	f	f	Pressed	f	C	1055							
+groupB	p6	RedGreen_Block1	RG_NCLeft, 4	response_no_cue	2	2	Pressed	2	C	1391							
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 1	response_target_f	f	f	Pressed	f	C	819						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 1	response_cue	1	1	Pressed	1	C	1234						SL	DC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 2	response_target_f	f	f	Pressed	f	C	756						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 2	response_cue	1	1	Pressed	1	C	1076						SL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 8	response_target_f	j	j	Pressed	f	E	1055						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 8	response_cue	1	1	Pressed	1	C	1439						DL	SC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 8	response_target_j	j	j	Pressed	j	C	1225						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 8	response_cue	1	1	Pressed	1	C	1641						SL	SC
+groupB	p6	RedGreen_Block1	RG_NCRight, 3	response_target_j	j	j	Pressed	j	C	928							
+groupB	p6	RedGreen_Block1	RG_NCRight, 3	response_no_cue	2	2	Pressed	2	C	1232							
+groupB	p6	RedGreen_Block1	RG_sdright_1, 1	response_target_j	j	j	Pressed	j	C	1481						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 1	response_cue	1	1	Pressed	1	C	1801						DL	SC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 3	response_target_j	j	j	Pressed	j	C	799						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 3	response_cue	1	1	Pressed	1	C	1175						SL	DC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 10	response_target_f	f	f	Pressed	f	C	823						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 10	response_cue	1	1	Pressed	1	C	1159						SL	SC
+groupB	p6	RedGreen_Block1	RG_ddright_1, 3	response_target_j	f	f	Pressed	j	E	1108						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddright_1, 3	response_cue	1	1	Pressed	1	C	1532						DL	DC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 6	response_target_j	j	j	Pressed	j	C	913						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 6	response_cue	1	1	Pressed	1	C	1233						SL	SC
+groupB	p6	RedGreen_Block1	RG_NCRight, 8	response_target_j	j	j	Pressed	j	C	1642							
+groupB	p6	RedGreen_Block1	RG_NCRight, 8	response_no_cue	2	2	Pressed	2	C	1898							
+groupB	p6	RedGreen_Block1	RG_NCRight, 5	response_target_j	j	j	Pressed	j	C	826							
+groupB	p6	RedGreen_Block1	RG_NCRight, 5	response_no_cue	2	2	Pressed	2	C	1178							
+groupB	p6	RedGreen_Block1	RG_dsright_1, 1	response_target_j	j	j	Pressed	j	C	687						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 1	response_cue	1	1	Pressed	1	C	1095						SL	DC
+groupB	p6	RedGreen_Block1	RG_NCRight, 4	response_target_j	j	j	Pressed	j	C	1065							
+groupB	p6	RedGreen_Block1	RG_NCRight, 4	response_no_cue	2	2	Pressed	2	C	1337							
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 6	response_target_f	f	f	Pressed	f	C	759						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsleft_1, 6	response_cue	1	1	Pressed	1	C	1071						SL	DC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 9	response_target_f	f	f	Pressed	f	C	975						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 9	response_cue	1	1	Pressed	1	C	1311						SL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 5	response_target_f	f	f	Pressed	f	C	1213						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 5	response_cue	1	1	Pressed	1	C	1645						DL	SC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 5	response_target_f	f	f	Pressed	f	C	717						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 5	response_cue	1	1	Pressed	1	C	1045						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 9	response_target_j	j	j	Pressed	j	C	922						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssright_1, 9	response_cue	1	1	Pressed	1	C	1314						SL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 9	response_target_f	f	f	Pressed	f	C	1151						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 9	response_cue	2	2	Pressed	1	E	1535						DL	SC
+groupB	p6	RedGreen_Block1	RG_NCLeft, 3	response_target_f	f	f	Pressed	f	C	1043							
+groupB	p6	RedGreen_Block1	RG_NCLeft, 3	response_no_cue	2	2	Pressed	2	C	1395							
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 6	response_target_f	f	f	Pressed	f	C	804						SL	SC
+groupB	p6	RedGreen_Block1	RG_ssleft_1, 6	response_cue	1	1	Pressed	1	C	2124						SL	SC
+groupB	p6	RedGreen_Block1	RG_NCRight, 1	response_target_j	f	f	Pressed	j	E	1036							
+groupB	p6	RedGreen_Block1	RG_NCRight, 1	response_no_cue	1	1	Pressed	2	E	1340							
+groupB	p6	RedGreen_Block1	RG_NCLeft, 10	response_target_f	f	f	Pressed	f	C	929							
+groupB	p6	RedGreen_Block1	RG_NCLeft, 10	response_no_cue	2	2	Pressed	2	C	1233							
+groupB	p6	RedGreen_Block1	RG_ddright_1, 10	response_target_j	j	j	Pressed	j	C	1221						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddright_1, 10	response_cue	2	2	Pressed	1	E	1533						DL	DC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 6	response_target_f	f	f	Pressed	f	C	1113						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 6	response_cue	1	1	Pressed	1	C	1529						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 9	response_target_j	j	j	Pressed	j	C	905						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 9	response_cue	1	1	Pressed	1	C	1401						DL	SC
+groupB	p6	RedGreen_Block1	RG_NCRight, 6	response_target_j	j	j	Pressed	j	C	764							
+groupB	p6	RedGreen_Block1	RG_NCRight, 6	response_no_cue	1	1	Pressed	2	E	1028							
+groupB	p6	RedGreen_Block1	RG_ddright_1, 7	response_target_j	j	j	Pressed	j	C	1317						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddright_1, 7	response_cue	1	1	Pressed	1	C	1725						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 2	response_target_f	f	f	Pressed	f	C	1003						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 2	response_cue	1	1	Pressed	1	C	1363						DL	DC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 7	response_target_j	j	j	Pressed	j	C	767						SL	DC
+groupB	p6	RedGreen_Block1	RG_dsright_1, 7	response_cue	1	1	Pressed	1	C	1111						SL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 9	response_target_f	f	f	Pressed	f	C	812						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 9	response_cue	1	1	Pressed	1	C	1140						DL	DC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 8	response_target_j	j	j	Pressed	j	C	614						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 8	response_cue	1	1	Pressed	1	C	918						DL	SC
+groupB	p6	RedGreen_Block1	RG_NCLeft, 8	response_target_f	f	f	Pressed	f	C	879							
+groupB	p6	RedGreen_Block1	RG_NCLeft, 8	response_no_cue	2	2	Pressed	2	C	1439							
+groupB	p6	RedGreen_Block1	RG_ddright_1, 4	response_target_j	j	j	Pressed	j	C	1515						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddright_1, 4	response_cue	1	1	Pressed	1	C	2019						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 6	response_target_f	f	f	Pressed	f	C	864						DL	DC
+groupB	p6	RedGreen_Block1	RG_ddleft_1, 6	response_cue	1	1	Pressed	1	C	1424						DL	DC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 2	response_target_f	f	f	Pressed	f	C	898						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdleft_1, 2	response_cue	1	1	Pressed	1	C	1442						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 5	response_target_j	j	j	Pressed	j	C	778						DL	SC
+groupB	p6	RedGreen_Block1	RG_sdright_1, 5	response_cue	1	1	Pressed	1	C	1122						DL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 8	response_target_j	j	j	Pressed	j	C	1014						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 8	response_cue	1	1	Pressed	1	C	1326						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 5	response_target_j	j	j	Pressed	j	C	685						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 5	response_cue	1	1	Pressed	1	C	997						SL	SC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 1	response_target_f	f	f	Pressed	f	C	1028						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 1	response_cue	1	1	Pressed	1	C	1372						DL	DC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 5	response_target_f	f	f	Pressed	f	C	789						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 5	response_cue	1	1	Pressed	1	C	1069						SL	SC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 6	response_target_j	j	j	Pressed	j	C	751						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 6	response_cue	1	1	Pressed	1	C	1071						SL	DC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 9	response_target_j	f	f	Pressed	j	E	1088						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 9	response_cue	1	1	Pressed	1	C	1424						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 1	response_target_f	f	f	Pressed	f	C	1161						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 1	response_cue	1	1	Pressed	1	C	1481						DL	SC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 4	response_target_j	j	j	Pressed	j	C	768						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 4	response_cue	1	1	Pressed	1	C	1152						SL	DC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 2	response_target_j	j	j	Pressed	j	C	887						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 2	response_cue	1	1	Pressed	1	C	1263						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 8	response_target_f	f	f	Pressed	f	C	729						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 8	response_cue	1	1	Pressed	1	C	1041						DL	SC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 8	response_target_f	f	f	Pressed	f	C	642						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 8	response_cue	1	1	Pressed	1	C	914						SL	SC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 8	response_target_j	j	j	Pressed	j	C	604						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 8	response_cue	1	1	Pressed	1	C	852						SL	DC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 4	response_target_f	f	f	Pressed	f	C	911						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 4	response_cue	1	1	Pressed	1	C	1223						DL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 3	response_target_j	j	j	Pressed	j	C	677						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 3	response_cue	1	1	Pressed	1	C	957						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 3	response_target_f	f	f	Pressed	f	C	738						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 3	response_cue	1	1	Pressed	1	C	1010						SL	SC
+groupB	p6	RedGreen_Block2	RG_NCLeft, 9	response_target_f	f	f	Pressed	f	C	941							
+groupB	p6	RedGreen_Block2	RG_NCLeft, 9	response_no_cue	2	2	Pressed	2	C	1261							
+groupB	p6	RedGreen_Block2	RG_ddright_2, 8	response_target_j	f	f	Pressed	j	E	928						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 8	response_cue	1	1	Pressed	1	C	1248						DL	DC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 1	response_target_j	j	j	Pressed	j	C	701						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 1	response_cue	1	1	Pressed	1	C	1013						SL	DC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 7	response_target_j	f	f	Pressed	j	E	1188						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 7	response_cue	1	1	Pressed	1	C	2148						DL	DC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 7	response_target_f	f	f	Pressed	f	C	799						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 7	response_cue	1	1	Pressed	1	C	1079						SL	DC
+groupB	p6	RedGreen_Block2	RG_NCLeft, 2	response_target_f	f	f	Pressed	f	C	770							
+groupB	p6	RedGreen_Block2	RG_NCLeft, 2	response_no_cue	1	1	Pressed	2	E	1074							
+groupB	p6	RedGreen_Block2	RG_NCRight, 8	response_target_j	j	j	Pressed	j	C	1009							
+groupB	p6	RedGreen_Block2	RG_NCRight, 8	response_no_cue	2	2	Pressed	2	C	1313							
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 6	response_target_f	f	f	Pressed	f	C	1098						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 6	response_cue	1	1	Pressed	1	C	1450						SL	DC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 10	response_target_j	f	f	Pressed	j	E	861						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 10	response_cue	1	1	Pressed	1	C	1133						DL	DC
+groupB	p6	RedGreen_Block2	RG_NCLeft, 8	response_target_f	f	f	Pressed	f	C	807							
+groupB	p6	RedGreen_Block2	RG_NCLeft, 8	response_no_cue	2	2	Pressed	2	C	1319							
+groupB	p6	RedGreen_Block2	RG_NCRight, 5	response_target_j	j	j	Pressed	j	C	777							
+groupB	p6	RedGreen_Block2	RG_NCRight, 5	response_no_cue	2	2	Pressed	2	C	1113							
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 6	response_target_f	f	f	Pressed	f	C	699						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 6	response_cue	1	1	Pressed	1	C	979						SL	SC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 9	response_target_f	f	f	Pressed	f	C	692						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 9	response_cue	1	1	Pressed	1	C	980						SL	DC
+groupB	p6	RedGreen_Block2	RG_NCLeft, 4	response_target_f	f	f	Pressed	f	C	1399							
+groupB	p6	RedGreen_Block2	RG_NCLeft, 4	response_no_cue	2	2	Pressed	2	C	1870							
+groupB	p6	RedGreen_Block2	RG_NCRight, 4	response_target_j	j	j	Pressed	j	C	789							
+groupB	p6	RedGreen_Block2	RG_NCRight, 4	response_no_cue	2	2	Pressed	2	C	1317							
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 7	response_target_f	f	f	Pressed	f	C	1074						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 7	response_cue	1	1	Pressed	1	C	1402						DL	SC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 5	response_target_f	f	f	Pressed	f	C	750						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 5	response_cue	1	1	Pressed	1	C	1054						DL	DC
+groupB	p6	RedGreen_Block2	RG_NCLeft, 10	response_target_f	f	f	Pressed	f	C	766							
+groupB	p6	RedGreen_Block2	RG_NCLeft, 10	response_no_cue	2	2	Pressed	2	C	1206							
+groupB	p6	RedGreen_Block2	RG_ddright_2, 3	response_target_j	j	j	Pressed	j	C	1732						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 3	response_cue	1	1	Pressed	1	C	1964						DL	DC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 9	response_target_f	f	f	Pressed	f	C	1267						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 9	response_cue	1	1	Pressed	1	C	1603						DL	SC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 3	response_target_f	f	f	Pressed	f	C	1970						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 3	response_cue	1	1	Pressed	1	C	2315						DL	DC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 2	response_target_j	j	j	Pressed	j	C	650						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 2	response_cue	1	1	Pressed	1	C	962						SL	DC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 1	response_target_j	f	f	Pressed	j	E	1499						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 1	response_cue	1	1	Pressed	1	C	1947						DL	DC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 9	response_target_f	f	f	Pressed	f	C	747						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 9	response_cue	1	1	Pressed	1	C	1011						SL	SC
+groupB	p6	RedGreen_Block2	RG_NCRight, 3	response_target_j	j	j	Pressed	j	C	960							
+groupB	p6	RedGreen_Block2	RG_NCRight, 3	response_no_cue	2	2	Pressed	2	C	1184							
+groupB	p6	RedGreen_Block2	RG_sdright_2, 6	response_target_j	f	f	Pressed	j	E	975						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 6	response_cue	1	1	Pressed	1	C	1263						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 3	response_target_f	f	f	Pressed	f	C	1171						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 3	response_cue	1	1	Pressed	1	C	1507						DL	SC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 10	response_target_f	f	f	Pressed	f	C	911						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 10	response_cue	1	1	Pressed	1	C	1231						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 10	response_target_j	j	j	Pressed	j	C	954						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 10	response_cue	1	1	Pressed	1	C	1250						SL	DC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 8	response_target_j	j	j	Pressed	j	C	952						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 8	response_cue	1	1	Pressed	1	C	1224						DL	SC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 3	response_target_j	j	j	Pressed	j	C	662						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 3	response_cue	1	1	Pressed	1	C	958						SL	DC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 7	response_target_j	j	j	Pressed	j	C	613						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 7	response_cue	1	1	Pressed	1	C	933						SL	SC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 9	response_target_j	f	f	Pressed	j	E	1081						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 9	response_cue	1	1	Pressed	1	C	1385						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 4	response_target_j	j	j	Pressed	j	C	707						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 4	response_cue	1	1	Pressed	1	C	1019						DL	DC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 5	response_target_j	j	j	Pressed	j	C	654						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 5	response_cue	1	1	Pressed	1	C	902						SL	DC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 4	response_target_f	f	f	Pressed	f	C	1083						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 4	response_cue	1	1	Pressed	1	C	1411						DL	DC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 2	response_target_f	f	f	Pressed	f	C	761						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 2	response_cue	1	1	Pressed	1	C	1081						DL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 2	response_target_j	j	j	Pressed	j	C	1045						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 2	response_cue	1	1	Pressed	1	C	1437						SL	SC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 2	response_target_f	f	f	Pressed	f	C	798						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 2	response_cue	1	1	Pressed	1	C	1086						SL	DC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 1	response_target_j	j	j	Pressed	j	C	777						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 1	response_cue	1	1	Pressed	1	C	1049						DL	SC
+groupB	p6	RedGreen_Block2	RG_NCLeft, 7	response_target_f	f	f	Pressed	f	C	890							
+groupB	p6	RedGreen_Block2	RG_NCLeft, 7	response_no_cue	2	2	Pressed	2	C	1218							
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 5	response_target_f	f	f	Pressed	f	C	850						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 5	response_cue	1	1	Pressed	1	C	1138						DL	SC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 10	response_target_f	f	f	Pressed	f	C	800						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 10	response_cue	1	1	Pressed	1	C	1088						DL	DC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 2	response_target_f	f	f	Pressed	f	C	669						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 2	response_cue	1	1	Pressed	1	C	965						SL	SC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 5	response_target_j	j	j	Pressed	j	C	688						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 5	response_cue	1	1	Pressed	1	C	1024						DL	DC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 10	response_target_j	j	j	Pressed	j	C	893						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 10	response_cue	1	1	Pressed	1	C	1125						DL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 1	response_target_j	j	j	Pressed	j	C	716						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 1	response_cue	1	1	Pressed	1	C	988						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 9	response_target_j	j	j	Pressed	j	C	702						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 9	response_cue	1	1	Pressed	1	C	943						SL	SC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 5	response_target_f	j	j	Pressed	f	E	1188						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 5	response_cue	1	1	Pressed	1	C	1492						SL	DC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 2	response_target_j	j	j	Pressed	j	C	842						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 2	response_cue	1	1	Pressed	1	C	1106						DL	DC
+groupB	p6	RedGreen_Block2	RG_NCLeft, 3	response_target_f	f	f	Pressed	f	C	773							
+groupB	p6	RedGreen_Block2	RG_NCLeft, 3	response_no_cue	1	1	Pressed	2	E	1053							
+groupB	p6	RedGreen_Block2	RG_ddright_2, 6	response_target_j	j	j	Pressed	j	C	741						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddright_2, 6	response_cue	1	1	Pressed	1	C	1053						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 6	response_target_f	j	j	Pressed	f	E	749						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 6	response_cue	1	1	Pressed	1	C	1005						DL	DC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 10	response_target_f	f	f	Pressed	f	C	625						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 10	response_cue	1	1	Pressed	1	C	921						SL	SC
+groupB	p6	RedGreen_Block2	RG_NCRight, 10	response_target_j	j	j	Pressed	j	C	686							
+groupB	p6	RedGreen_Block2	RG_NCRight, 10	response_no_cue	2	2	Pressed	2	C	1102							
+groupB	p6	RedGreen_Block2	RG_dsright_2, 9	response_target_j	j	j	Pressed	j	C	641						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 9	response_cue	1	1	Pressed	1	C	1169						SL	DC
+groupB	p6	RedGreen_Block2	RG_NCLeft, 5	response_target_f	f	f	Pressed	f	C	897							
+groupB	p6	RedGreen_Block2	RG_NCLeft, 5	response_no_cue	2	2	Pressed	2	C	1249							
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 9	response_target_f	f	f	Pressed	f	C	762						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 9	response_cue	2	2	Pressed	1	E	1090						DL	DC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 3	response_target_f	f	f	Pressed	f	C	770						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 3	response_cue	1	1	Pressed	1	C	1714						SL	DC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 4	response_target_f	f	f	Pressed	f	C	1041						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 4	response_cue	1	1	Pressed	1	C	1409						SL	SC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 4	response_target_j	f	f	Pressed	j	E	934						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 4	response_cue	1	1	Pressed	1	C	1230						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 3	response_target_j	j	j	Pressed	j	C	1172						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 3	response_cue	1	1	Pressed	1	C	1452						DL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 10	response_target_j	j	j	Pressed	j	C	860						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 10	response_cue	1	1	Pressed	1	C	1204						SL	SC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 7	response_target_j	j	j	Pressed	j	C	662						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsright_2, 7	response_cue	1	1	Pressed	1	C	958						SL	DC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 7	response_target_f	f	f	Pressed	f	C	858						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 7	response_cue	1	1	Pressed	1	C	1202						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 1	response_target_f	f	f	Pressed	f	C	1021						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssleft_2, 1	response_cue	1	1	Pressed	1	C	1349						SL	SC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 8	response_target_f	j	j	Pressed	f	E	1075						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 8	response_cue	1	1	Pressed	1	C	1451						SL	DC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 6	response_target_j	j	j	Pressed	j	C	887						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 6	response_cue	1	1	Pressed	1	C	1215						SL	SC
+groupB	p6	RedGreen_Block2	RG_NCRight, 9	response_target_j	j	j	Pressed	j	C	1115							
+groupB	p6	RedGreen_Block2	RG_NCRight, 9	response_no_cue	2	2	Pressed	2	C	1378							
+groupB	p6	RedGreen_Block2	RG_NCRight, 1	response_target_j	j	j	Pressed	j	C	754							
+groupB	p6	RedGreen_Block2	RG_NCRight, 1	response_no_cue	1	1	Pressed	2	E	1106							
+groupB	p6	RedGreen_Block2	RG_NCLeft, 1	response_target_f	f	f	Pressed	f	C	920							
+groupB	p6	RedGreen_Block2	RG_NCLeft, 1	response_no_cue	2	2	Pressed	2	C	1248							
+groupB	p6	RedGreen_Block2	RG_NCLeft, 6	response_target_f	f	f	Pressed	f	C	849							
+groupB	p6	RedGreen_Block2	RG_NCLeft, 6	response_no_cue	2	2	Pressed	2	C	1193							
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 2	response_target_f	j	j	Pressed	f	E	1715						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 2	response_cue	1	1	Pressed	1	C	1971						DL	DC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 5	response_target_j	j	j	Pressed	j	C	732						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 5	response_cue	1	1	Pressed	1	C	1044						DL	SC
+groupB	p6	RedGreen_Block2	RG_NCRight, 6	response_target_j	f	f	Pressed	j	E	1594							
+groupB	p6	RedGreen_Block2	RG_NCRight, 6	response_no_cue	2	2	Pressed	2	C	1889							
+groupB	p6	RedGreen_Block2	RG_NCRight, 2	response_target_j	j	j	Pressed	j	C	993							
+groupB	p6	RedGreen_Block2	RG_NCRight, 2	response_no_cue	2	2	Pressed	2	C	1273							
+groupB	p6	RedGreen_Block2	RG_NCRight, 7	response_target_j	j	j	Pressed	j	C	730							
+groupB	p6	RedGreen_Block2	RG_NCRight, 7	response_no_cue	2	2	Pressed	2	C	993							
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 4	response_target_f	f	f	Pressed	f	C	796						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 4	response_cue	1	1	Pressed	1	C	1124						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 1	response_target_f	f	f	Pressed	f	C	777						SL	DC
+groupB	p6	RedGreen_Block2	RG_dsleft_2, 1	response_cue	1	1	Pressed	1	C	1065						SL	DC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 7	response_target_j	j	j	Pressed	j	C	864						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdright_2, 7	response_cue	1	1	Pressed	1	C	1216						DL	SC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 7	response_target_f	f	f	Pressed	f	C	773						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 7	response_cue	1	1	Pressed	1	C	1069						DL	DC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 6	response_target_f	f	f	Pressed	f	C	819						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 6	response_cue	1	1	Pressed	1	C	1123						DL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 4	response_target_j	j	j	Pressed	j	C	533						SL	SC
+groupB	p6	RedGreen_Block2	RG_ssright_2, 4	response_cue	1	1	Pressed	1	C	813						SL	SC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 8	response_target_f	f	f	Pressed	f	C	761						DL	DC
+groupB	p6	RedGreen_Block2	RG_ddleft_2, 8	response_cue	1	1	Pressed	1	C	1001						DL	DC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 10	response_target_f	f	f	Pressed	f	C	922						DL	SC
+groupB	p6	RedGreen_Block2	RG_sdleft_2, 10	response_cue	1	1	Pressed	1	C	1250						DL	SC
