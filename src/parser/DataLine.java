@@ -54,7 +54,7 @@ public class DataLine {
 					
 				if(!target && (splitLine[6].equals("f") || splitLine[6].equals("j")))
 					erroneous = true;
-				else if(target && (splitLine[6].equals("1") || splitLine[6].equals("2")))
+				else if(target && (splitLine[6].equals("1") || splitLine[6].equals("2") || splitLine[6].equals("e") || splitLine[6].equals("i")))
 					erroneous = true;
 				else {
 					// Known cases
@@ -63,8 +63,20 @@ public class DataLine {
 							correct = true;
 					} else if(splitLine[6].equals("g")) {
 						if(splitLine[8].equals("f"))
-							correct = true;				
-					} else{	//For now just print out the offending characters 
+							correct = true;		
+					} else if(splitLine[6].equals("r")) {
+						if(splitLine[8].equals("1; e")) {
+							aware = true;
+							correct = true;
+							//printLine();
+						}
+					} else if(splitLine[6].equals("d")) {
+						if(splitLine[8].equals("f"))
+							correct = true;	
+					} else if(splitLine[6].equals("o")) {
+						if(splitLine[8].equals("1; e"))
+							correct = true;	
+					} else {	//For now just print out the offending characters 
 						//this.printLine();
 						System.out.println("Erroneous cases: " + splitLine[6] + " " + splitLine[8]);
 					}

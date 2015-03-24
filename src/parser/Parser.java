@@ -21,7 +21,7 @@ public class Parser {
 	 */
 	public static void parseFile(Participant p) throws IOException {
 			
-		BufferedReader br = new BufferedReader(new FileReader("Data/p8.txt"));
+		BufferedReader br = new BufferedReader(new FileReader("Data/s35.txt"));
 	    try {
 	        parseMetadata(br, p);
 	        parseParticipantData(br, p);
@@ -105,6 +105,7 @@ public class Parser {
 	 */
 	public static void printData(Participant p) {
 		p.printInfo();
+		p.printInfoToFile();
 		
 	}
 	
